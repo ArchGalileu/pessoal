@@ -1,5 +1,5 @@
 ---
-title: Contact Form
+title: Contato
 
 form:
   fields:
