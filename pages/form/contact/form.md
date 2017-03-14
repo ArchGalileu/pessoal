@@ -5,38 +5,38 @@ form:
   fields:
     name:
       type: text
-      label: Name
+      label: Nome
       validate:
         required: true
-        message: Please enter your name!
+        message: escreve o teu nome!
     email:
       type: text
       label: Email
       validate:
         type: email	
         required: true
-        message: Please enter your email address!
+        message: agora... o teu email
     subject:
       type: text
-      label: Subject
+      label: Assunto 
       validate:
         required: true
-        message: Please enter a subject for your message!
+        message: escreve o assunto!
     message:
       type: textarea
-      label: Message
+      label: Mensagem
       validate:
         required: true
         min: 10
-        message: Email message needs to be more than 10 characters long!
+        message: finalmente, que te trás por cá!
 
   buttons:
     submit:
       type: submit
-      value: Send Email
+      value: Enviar
      
   process:
-    message: 'Thank you from contacting us!'
+    message: 'Obrigado pelo teu contato!'
     display: /form/thankyou
 
 ---
