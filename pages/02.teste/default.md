@@ -1,5 +1,6 @@
 ---
 title: default
+menu: Teste
 ---
 Teste
 
