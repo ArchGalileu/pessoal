@@ -1,13 +1,11 @@
 ---
-title: 'Raleigh, North Carolina' 
+title: 'Quarteto Douro no Teatro Aveirense' 
 taxonomy: 
 	category: 
 		- featured 
 event: 
-	start: '03-10-2016 16:00' 
-	end: '03-10-2016 18:00' 
-	repeat: MR 
-	freq: monthly 
+	start: '25-03-2017 21:00' 
+	end: '25-03-2017 22:30'
 	location: 'Raleigh, NC' 
 	coordinates: '35.7795897, -78.6381787' 
 ---
