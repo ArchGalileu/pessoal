@@ -1,8 +1,5 @@
 ---
 title: 'Quarteto Douro no Teatro Aveirense' 
-taxonomy: 
-   category: 
-      - featured 
 event: 
     start: '25-03-2017 21:00' 
     end: '25-03-2017 22:30'
