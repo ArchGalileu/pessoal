@@ -9,6 +9,7 @@ Obrigado Eng. Joaquim Domingos Capela
   
 #### Breve História dos Guarnerius  
 A cidade de Cremona, Itália, foi nos séculos XVI, XVII, e XVIII berço de notáveis famílias famílias de violeiros, entre outras Amati, Guarnerius, Stradivarius e Ruggeris, as quais projectaram esta cidade em toda a Europa como o primeiro e maior centro da construção de violinos.  
+
 Pela circunstância e espaço disponível narrar-se-à aqui uma breve história da família Guarnerius e alguns factos envolventes.  
 Andrea (1626-1698), o primeiro violeiro da família, faz a sua aprendizagem na oficina de Nicolau Amati, como confirma a descrição duma das suas etiquetas: “Andrea Guarnerius alumnus Nicolau Amati fecit Cremonae sub titulo Sanctae Terefiae 16..”.
 
