@@ -7,6 +7,3 @@ collection:
         '@taxonomy.event_freq': weekly
 ---
 
---- 
-
----
