@@ -68,4 +68,6 @@ Os parâmetros acústicos violino, nomeadamente potência, projecção, igualdad
 **Joaquim Domingos Capela** 
 
 *Dezembro 2007
-São Fêlix da Marinha – V. N. de Gaia – Portugal* 
+São Fêlix da Marinha
+V. N. de Gaia
+Portugal* 
