@@ -47,7 +47,7 @@ No âmbito desta exposição, que decorre 250 anos após a sua morte, foram publ
 
 Com estes violinos foram gravadas obras de célebres compositores pelo grande violinista Elmar Oliveira, o primeiro americano a vencer a medalha de ouro (1º Prémio) no Concurso Internacional Tchaikovsky no ano de 1978, em Moscovo. Nasceu a 28 de Junho de 1950 em Waterbury, Connecticut, filho de um casal de emigrantes portugueses naturais da Murtosa, Aveiro.
 
-#### A Construção do Violino  
+#### **A Construção do Violino**  
 
 No ano 2000 construí o meu violino nº9 que procura ser uma cópia do “Cannon”. Para o efeito foram usados elementos fotográficos e geométricos contidos nos dois volumes referidos.
 
