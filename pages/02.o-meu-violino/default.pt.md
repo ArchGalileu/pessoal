@@ -1,7 +1,9 @@
 ---
 title: 'O meu Violino'
 menu: 'O meu Violino'
+author: 'Gaspar Santos'
 ---
+
 ![Eng. Joaquim Domingos Capela](eng%20capela.webp "Eng. Joaquim Domingos Capela no atelier"){.float-right}
 > Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado...  
   
