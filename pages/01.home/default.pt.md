@@ -20,9 +20,9 @@ Obteve o 3º prémio no concurso “Prémio Jovens Músicos” na classe de viol
 
 Integrou o Quarteto Walter Hidalgo Tango (2004-2007). Apresentou-se no TeCA e TNSJ, com a obra “Maria de Buenos Aires” de Astor Piazzolla, 2006.
 
-Membro fundador do Duo Soledad e 1º violino do Quarteto Aquarelle, com o qual esteve vinculado à ESMAE durante 4 anos na classe de Música de Câmara, do qual se desvinculou em Agosto 2004;
+1º violino do Quarteto Aquarelle, com o qual esteve vinculado à ESMAE durante 4 anos na classe de Música de Câmara, do qual se desvinculou em Agosto 2004;
 
-Aluno de Radu Ungureanu na ESMAE.
+Estudou com Radu Ungureanu na ESMAE.
 
 Membro fundador do Quarteto Douro e Camerata NovNorte.
 
